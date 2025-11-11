@@ -32,6 +32,7 @@ I am actively seeking **part-time internships** or **collaborative projects** to
 | Platform | Link | 
  | ----- | ----- | 
 | **LinkedIn** | https://www.linkedin.com/in/lucas-ștefan-iftinca-622270353/ | 
+| **Personal Email** | iftincalucasstefan@yahoo.com |
 | **UVT Email** | lucas.iftinca05@e-uvt.ro | 
 
 Feel free to connect or explore my repositories—I welcome constructive feedback on my code!
